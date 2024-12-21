@@ -23,8 +23,8 @@ O desafio consistia em construir uma página de um cartão de visualização de 
 
 ### Links
 
-- Solução URL: [URL da solução]()
-- Live Site URL: [Live site URL]()
+- Solução URL: [URL da solução](https://github.com/moisesferreira123/blog-preview-card-project/tree/main)
+- Live Site URL: [Live site URL](https://moisesferreira123.github.io/blog-preview-card-project/)
 
 
 ## Construído com
