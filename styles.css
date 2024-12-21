@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 62.5%;
+}
+
+.font {
+  font-family: "Figtree", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+svg{
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 95vh;
+  background-color: hsl(47, 88%, 63%);
+}
+
+.content {
+  width: 250px;
+  padding: 15px;
+  border-radius: 15px;
+  background-color: hsl(0, 0%, 100%);
+  box-shadow: 5px 5px 0 0 hsl(0, 0%, 7%);
+  border: 1.5px solid hsl(0, 0%, 7%)
+}
+
+.learning {
+  display: inline;
+  font-weight: 800;
+  background-color: hsl(47, 88%, 63%);
+  padding: 4px 5px;
+  border-radius: 3px;
+  color: hsl(0, 0%, 7%);
+}
+
+.published {
+  color: hsl(0, 0%, 7%);
+  margin: 15px 0px 10px 0px;
+}
+
+section header {
+  color: hsl(0, 0%, 7%);
+  font-weight: 800;
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+section p {
+  color: hsl(0, 0%, 42%);
+  margin-bottom: 15px;
+}
+
+img {
+  width: 20px;
+}
+
+.container-2 {
+  display: flex;
+  align-items: center;
+}
+
+.name {
+  margin-left: 8px;
+  font-weight: 800;
+  color:hsl(0, 0%, 7%)
+}
+
+.attribution { 
+  font-size: 11px; 
+  text-align: center;
+  background-color: hsl(47, 88%, 63%);
+  height: 5vh;
+}
+
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+  text-decoration: none;
+}
